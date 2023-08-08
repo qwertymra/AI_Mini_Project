@@ -1,17 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# ### THE SPARK FOUNDATION INTERNSHIP
-# 
-# #### Name: Muhammad Rizwan Munawar
-# 
-# #### Domain:Computer Vision & IOT
-
-# I have used KMeans Clustering Algorithm for colors Detection in images
-
-# #### Step-1: Importing Libraries
-
-# In[7]:
 
 
 import os

@@ -122,9 +122,3 @@ show_selected_images(images, COLORS['BLUE'], 60, 5)
 
 plt.figure(figsize = (20, 10))
 show_selected_images(images, COLORS['YELLOW'], 60, 5)
-
-
-
-# I have used KMeans Clustering Algorithm to extract majority colors from images. 
-# 
-# then I used the RGB Values of Colors to identify images from a collection that have that color in them.
